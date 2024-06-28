@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #282c34;
 }
 
 code {
@@ -31,7 +32,5 @@ span {
   margin: auto;
   margin-top: 20%;
   margin-left: 40%;
-  color: rgb(239, 239, 239);
-  background-color: #0b0a0a;
   align-items: center;
 }
